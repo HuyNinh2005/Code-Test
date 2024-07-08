@@ -1,0 +1,1 @@
+print("\tnguyen thanh ngan".lstrip())
